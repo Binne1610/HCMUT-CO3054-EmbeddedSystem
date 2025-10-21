@@ -1,0 +1,16 @@
+# ===== ESP-IDF build files =====
+build/
+sdkconfig.old
+sdkconfig
+
+# ===== IDE folders =====
+.vscode/
+.idea/
+
+# ===== OS-generated files =====
+.DS_Store
+Thumbs.db
+
+# ===== Logs and temporary files =====
+*.log
+*.tmp
